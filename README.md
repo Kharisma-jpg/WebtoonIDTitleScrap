@@ -1,2 +1,1 @@
-# WebtoonIDTitleScrap
- Scraping Webtoon ID title with beautifulsoup 
+This contain the result from 01.Title.py
